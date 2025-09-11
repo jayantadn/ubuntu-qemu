@@ -1,0 +1,8 @@
+d41d8cd98f00b204e9800998ecf8427e  md5sums.txt
+d0da5176bc450e5eb8d901a836c58aa0  noble-server-cloudimg-amd64.img.part.0001
+1f40acc70d28c97ed66eb75823915b88  noble-server-cloudimg-amd64.img.part.0002
+49377608d4f42e1db429be67325d7f84  noble-server-cloudimg-amd64.img.part.0003
+aa4093718a466eac899d2539264b1bfe  noble-server-cloudimg-amd64.img.part.0004
+857159677e1b5226d892d29a1b391229  noble-server-cloudimg-amd64.img.part.0005
+0e0f38871b840e47c30dafdae35be9a1  noble-server-cloudimg-amd64.img.part.0006
+ac275a1d188c8823e7423a448fd7b7b5  noble-server-cloudimg-amd64.img.part.0007
