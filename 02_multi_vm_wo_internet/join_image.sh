@@ -2,8 +2,8 @@
 
 set -euo pipefail
 
-outdir="noble-base.qcow2.img_parts"
-outfile="noble-base.qcow2.img"
+outdir="noble-base.qcow2_parts"
+outfile="noble-base.qcow2"
 
 if [ ! -d "$outdir" ]; then
   echo "Error: directory not found: $outdir" >&2
