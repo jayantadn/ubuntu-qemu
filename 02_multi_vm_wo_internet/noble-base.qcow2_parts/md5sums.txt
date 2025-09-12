@@ -1,0 +1,13 @@
+d41d8cd98f00b204e9800998ecf8427e  md5sums.txt
+6de0d4cda3e6579f08c878dfcf71e496  noble-base.qcow2.part.0001
+1f40acc70d28c97ed66eb75823915b88  noble-base.qcow2.part.0002
+49377608d4f42e1db429be67325d7f84  noble-base.qcow2.part.0003
+b4958ffa0d2b916394ce13010f891941  noble-base.qcow2.part.0004
+2f5dfcd60b1a557013805ce37d01e436  noble-base.qcow2.part.0005
+d577a6dc30de9b5b18025bf833f01f04  noble-base.qcow2.part.0006
+3d9294fa951b57928cb09e5401ddd042  noble-base.qcow2.part.0007
+3daf67a79adc50cb64614a7c7084b41b  noble-base.qcow2.part.0008
+4cd8e67de52c4625f107ececf1cee2a7  noble-base.qcow2.part.0009
+f5f98ff51b47f49f5c5a5d5f914924ad  noble-base.qcow2.part.0010
+8d57ff566818e648c5ad6be1b20aed10  noble-base.qcow2.part.0011
+2770bd1328ec4ca4ed5881496ecdcb72  noble-base.qcow2.part.0012
