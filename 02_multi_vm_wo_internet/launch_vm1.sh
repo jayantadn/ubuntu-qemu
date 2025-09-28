@@ -8,4 +8,5 @@ qemu-system-x86_64 \
   -cdrom $(pwd)/seed-vm1.iso \
   -netdev tap,id=net0,ifname=tap0,script=no,downscript=no \
   -device virtio-net-pci,netdev=net0,mac=52:54:00:12:00:01 \
+  -virtfs local,id=hostshare,path=qemu_share,security_model=none,mount_tag=hostshare \
   -nographic

@@ -15,5 +15,11 @@ Hint. if bridge and tap was created before, restart the host machine.
 1. check ip address using `ip a`
 1. ping one vm from the other using each ip address
 
+# transfering files to guest
+1. create a folder called `qemu_share` and put all files to ship to guest
+
+# internet connection in guest
+todo
+
 # zenoh testing
 1. from one vm launch z_sub and from another z_pub
